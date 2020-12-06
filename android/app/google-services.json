@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "676267658746",
+    "firebase_url": "https://deja-brew-ff03d.firebaseio.com",
+    "project_id": "deja-brew-ff03d",
+    "storage_bucket": "deja-brew-ff03d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676267658746:android:04577320a6697f3f536843",
+        "android_client_info": {
+          "package_name": "com.mozzarella.dejabrew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676267658746-qqtaq3eporc9h155e8hk38arb84rd07h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3mQR7rvQzRBcBUqseHoP06II0MsQdkxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676267658746-qqtaq3eporc9h155e8hk38arb84rd07h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
